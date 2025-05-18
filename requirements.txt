@@ -7,4 +7,5 @@ dm-tree
 Pillow
 transformers
 kornia
+opencv-python>=3.0.0  # ✅ 显式添加合法格式，避免 gym 安装失败
 minedojo @ git+https://github.com/MineDojo/MineDojo
